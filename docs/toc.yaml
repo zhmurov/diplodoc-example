@@ -1,0 +1,23 @@
+title: The Quantum Dynamics of Synthetic Cognition
+href: index.yaml
+navigation:
+  logo:
+    url: ./index.html
+    dark:
+      icon: ./img/dark.jpeg
+    light:
+      icon: ./img/light.jpeg
+  header:
+    leftItems:
+      - type: link
+        text: Documentation
+        url: ./main.html
+    rightItems:
+      - type: controls
+items:
+  - name: Main text
+    href: main.md
+  - name: Methods
+    href: methods.md
+  - name: Results
+    href: results.md

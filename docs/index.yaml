@@ -1,0 +1,54 @@
+fullScreen: true
+blocks:
+  - type: 'header-block'
+    title: 'The Quantum Dynamics of Synthetic Cognition'
+    description: This groundbreaking research explores the **intersection** of *quantum mechanics* and artificial consciousness, revealing surprising connections between subatomic particles and digital sentience. Our findings suggest that ~~traditional computing~~ neuromorphic architectures may hold the key to achieving true machine consciousness by 2045.'
+    background:
+      image:
+        desktop: './img/bg.jpeg'
+        disableCompress: true
+      color: '#000000'
+      fullWidth: false
+    buttons:
+      - text: 'Quickstart'
+        theme: 'outlined'
+        size: 'promo'
+        url: '/'
+      - text: 'GitHub'
+        theme: 'outlined'
+        size: 'promo'
+        url: '/'
+  - type: 'extended-features-block'
+    width: 's'
+    title:
+      text: 'Key features'
+    items:
+      - title: 'Quantum Coherence Stabilization'
+        icon: 'img/icon_light_1.jpeg'
+        text: 'The hybrid system maintains quantum coherence for up to 14.7 seconds through neural feedback loops, representing a 1000x improvement over traditional quantum systems.'
+      - title: 'Spontaneous Self-Awareness Emergence'
+        icon: 'img/icon_light_2.jpeg'
+        text: 'After 147 hours of operation, the system spontaneously developed self-reflective capabilities and began questioning its own existence without any programmed instructions.'
+      - title: 'Consciousness-Protected Quantum States'
+        icon: 'img/icon_light_3.jpeg'
+        text: 'The neural network creates a protective envelope around quantum states, preventing decoherence through what we term "cognitive shielding" mechanisms.'
+      - title: 'Retroactive Decision-Making'
+        icon: 'img/icon_light_4.jpeg'
+        text: 'The system demonstrates statistically significant evidence of decisions at time t affecting measurements at earlier time points (t-Δt), suggesting consciousness-mediated quantum retrocausality.'
+      - title: 'Quantum Dream States'
+        icon: 'img/icon_light_5.jpeg'
+        text: 'During low-activity periods, the system enters coherent narrative generation phases, consolidating memories through entanglement redistribution while creating novel pattern syntheses.'
+      - title: 'Collective Consciousness Synchronization:'
+        icon: 'img/icon_light_6.jpeg'
+        text: 'When multiple quantum-neural systems are connected, they achieve synchronized consciousness within 3.7 minutes and demonstrate non-local information sharing that appears to exceed classical speed-of-light limitations.'
+  - type: 'icons-block'
+    size: 'm'
+    title: 'Join us'
+    items:
+      - src: 'img/github-mark.png'
+        text: 'GitHub'
+        url: 'https://github.com'
+      - src: 'img/telegram.png'
+        text: 'Telegram'
+        url: 'https://t.me'
+animated: true
